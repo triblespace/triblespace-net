@@ -19,7 +19,7 @@ feature rather than depending on this crate directly:
 
 ```toml
 [dependencies]
-triblespace = { version = "0.35", features = ["net"] }
+triblespace = { version = "0.36", features = ["net"] }
 ```
 
 ```rust,ignore
